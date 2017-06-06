@@ -101,14 +101,11 @@ link:https://github.com/p15afen/twitter-stream-globe/blob/metafrash-leksewn/AFIN
 
 ### Αλλαγή υφής χάρτη: link:https://github.com/p15afen/twitter-stream-globe/blob/YfhMap/public/javascripts/TwitterStreamGlobe.js
 
-### Mείωση της ταχύτητας της υδρογείου: https://github.com/p15afen/twitter-stream-globe/blob/allaghTaxuthtas/public/javascripts
-/TwitterStreamGlobe.js
+### Mείωση της ταχύτητας της υδρογείου: https://github.com/p15afen/twitter-stream-globe/blob/allaghTaxuthtas/public/javascripts/TwitterStreamGlobe.js
 
-### Περιορισμός της περιοχής προέλευσης των tweets: https://github.com/p15afen/twitter-stream-globe/blob/periorismos/tweet-
-publisher/index.js
+### Περιορισμός της περιοχής προέλευσης των tweets: https://github.com/p15afen/twitter-stream-globe/blob/periorismos/tweet-publisher/index.js
 
 ## Παραδοτέο 4
 
-### Αλλαγή όψεως χάρτη: link:https://github.com/p15afen/twitter-stream-globe/blob/paradoteo4/public/javascripts
-/TwitterStreamGlobe.js
+### Αλλαγή όψεως χάρτη: link:https://github.com/p15afen/twitter-stream-globe/blob/paradoteo4/public/javascripts/TwitterStreamGlobe.js
 
